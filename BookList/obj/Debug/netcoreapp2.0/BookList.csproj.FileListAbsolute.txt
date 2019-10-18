@@ -1,0 +1,14 @@
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.deps.json
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.runtimeconfig.json
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.runtimeconfig.dev.json
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.dll
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.pdb
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.csprojAssemblyReference.cache
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.AssemblyInfoInputs.cache
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.AssemblyInfo.cs
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.dll
+C:\Users\BrunoTiCaVini\Desktop\Projeto01DotNet\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.pdb
